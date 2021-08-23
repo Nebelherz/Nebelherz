@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nebelherz
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning React and Typescript.
-- 📫 How to reach me: [email](vdsmlg360@gmail.com)
+- 📫 How to reach me: email
 
 <!---
 Nebelherz/Nebelherz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
